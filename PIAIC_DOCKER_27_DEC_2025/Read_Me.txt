@@ -16,3 +16,6 @@ basically we need to connect the claude code with gemini and then start with cli
 
 ccr code ->cli
 ccr ui ->ui on local host 
+
+
+if limit reaches for claude then use Queen Code
