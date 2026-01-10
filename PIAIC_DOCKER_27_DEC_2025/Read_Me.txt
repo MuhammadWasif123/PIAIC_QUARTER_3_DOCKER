@@ -19,3 +19,6 @@ ccr ui ->ui on local host
 
 
 if limit reaches for claude then use Queen Code
+
+
+then add the MCP server for githun in claude
